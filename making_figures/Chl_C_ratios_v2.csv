@@ -1,0 +1,41 @@
+PFT_group,study,species,isolate_location,gChl/gC,notes
+diat,Lomas et al. 2019,Attheya septentrionalis,"Baffin Bay (77.8N, 76.4W), N. Atlantic Ocean",0.13,
+diat,Lomas et al. 2019,Skeletonema dohrni,"Kasitsna Bay (59.5N, 151.4W), Alaska",0.04,
+diat,Lomas et al. 2019,Porosira glacialis,"Narragansett Bay (41.6N, 71.4W), Rhode Island",0.061,
+diat,Lomas et al. 2019,Melosira nummuloides,"Harwich Harbor (41.7N, 70W), Massachusetts",0.04,
+diat,Lomas et al. 2019,Odontella aurita,"Webb Cove 44.2N, 69.5W), Stonington, Maine",0.053,
+diat,Lomas et al. 2019,Thalassiosira antarctica,"Oslo Fjord (59.5N, −10.6W), Norway",0.055,
+diat,Lomas et al. 2019,Thalassiosira nordenskioeldii,"Tromsø (69.7N, −18.7W), Norway",0.073,
+diat,Lomas et al. 2019,Thalassiosira aestivalis,"North Atlantic Ocean (42.7N, 69.6W)",0.043,
+diat,Lomas et al. 2019,Thalassiosira gravida,"Tromsø (59.5N, −10.6W), Norway",0.061,
+diat,"Geider et al. 1997,Yoder 1979",Skeletonema costatum,"Narragansett Bay (41.6N, 71.4W), Rhode Island",0.047,
+
+sp,"Geider et al. 1997,Langdon 1987",Olisthodiscus luteus,"Narragansett Bay (41.6N, 71.4W), Rhode Island",0.033,"found in Lacour et al., 2016"
+diat,"Geider et al. 1997,Landgon 1987",Skeletonema costatum,"Narragansett Bay (41.6N, 71.4W), Rhode Island",0.044,
+
+sp,"Geider et al. 1997,Kana & Gilbert 1987",Synecchococcus spp.,"33 44.9’N 67 29.8’W",0.021,"isolate location found in Chadd et al 1996"
+sp,"Geider et al. 1997,Nielsen 1996",Gymnodinium galatheanum,"Olsofjord, Norway",0.015,
+sp,"Geider et al. 1997,Nielsen 1992",Gyrodinium aureolum,"Olsofjord, Norway",0.047,
+
+sp,"Geider et al. 1997,Falkowski et al. 1985",Prorocentrum micans,unknown; Long Island Sounds,0.007,
+diat,"Geider et al. 1997,Falkowski et al. 1985",Thalassiosira weissflogii,Long Island Sound,0.055,
+sp,"Geider et al. 1997,Muggali & Harrison 1997",Emiliania huxleyi,"Subarctic North Pacific, Station P",0.017,
+sp,Verity et al. 1991,Phaeocystis pouchetti,"Tromso, Norway",0.015,largest value reported among solitary & colonies
+diat,Sakshaug et al. 1991,Thalassiosira nordenskioeldii,Barents Sea,0.062,"low light adapted, 12 h"
+diat,Sakshaug et al. 1991,Chaetoceros furcellatus,Barents Sea,0.036,"low light adapted, 12 h"
+diat,Verity 1982,Leptocylindricus danicus,"Narragansett Bay (41.6N, 71.4W), Rhode Island",0.036,"found in Lacour et al. 2016"
+diat,MacIntyre et al. 2002,Thalassiosira tricornutum,"worldwide distribution; Scottish isolate",0.062,"found in Lacour et al. 2016"
+sp,Nielsen 1997,Emiliania huxleyi,"Plymouth Marine Laboratory, UK",0.028,"found in Lacour et al. 2016"
+sp,"Garcia & Prudie 1992",Gyrodinium cf. aureolum,"English Channel",0.024,"dinoflagellate"
+sp,"Arrigo et al. 2010",Phaeocystis antarctica 1871,Southern Ocean,0.024,
+sp,"Arrigo et al. 2010",Phaeocystis antarctica 1374,Southern Ocean,0.015,
+diat,"Arrigo et al. 2010",Fragilariopsis cylindrus,Southern Ocean,0.04,
+
+diat,"Hedseth 1989",Chaetoceros furcellatus,polar,0.036,"Arctic species"
+diat,"Hedseth 1989",Thalassiosira antarctica,polar,0.038,"Arctic species"
+diat,"Hedseth 1989",Nitzschia delicatissima,polar,0.0385,"Arctic species"
+
+diat,"Lacour et al. 2016",Chaetoceros néogracile,polar,0.038,
+
+diat,"Lacour et al. 2016",Thalassiosira gravida,polar,0.042,"found in Lacour et al. 2016; arctic species"
+
